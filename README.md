@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjongah&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=데이터와%20소통하는%20분석가&fontSize=70)
 
 * 안녕하세요 데이터와 소통하는 분석과 최정호입니다.

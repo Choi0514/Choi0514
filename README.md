@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img
 src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  <img 
 
-<a href="https://blog.naver.com/chejh05145/"><img src="https://img.shields.io/badge/My NAVER blog-#03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/chejh05145/"/></a>
+https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/chejh05145
+
+
 <!--
 **Choi0514/Choi0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
